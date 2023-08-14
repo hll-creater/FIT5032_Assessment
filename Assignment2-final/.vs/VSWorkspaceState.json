@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Data",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\Bookings",
+    "\\Views\\Doctors",
+    "\\Views\\Home",
+    "\\Views\\Manage",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\Home\\Send_Email.cshtml",
+  "PreviewInSolutionExplorer": false
+}
